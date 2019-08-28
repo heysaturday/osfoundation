@@ -29,7 +29,7 @@
             <div id="mainContent">
                 <img src="images/header-news.jpg" />
 
-                <h2><span class="bold">Thrive ON Miles for Mammos</span></h2><p></p>
+                <h2><span class="bold">Thrive On Miles for Mammos</span></h2><p></p>
 
                 <h3>Save the Date!</h3>
                 <p style="font-weight:bold;">Oct. 12 at 8am</p>

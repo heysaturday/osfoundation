@@ -73,30 +73,15 @@ $(function() {
 
 
 
-	<p>When the music finally ended (don’t ask the time!) a core of very special people – Jacksonvill’es ‘own’ SgtMaj Joe Houle USMC (Ret), Col John Kopka USMC (Ret) and GySgt Stan Walker USMC (Ret) – and all their volunteer marines – stayed on for the tiring work of returning the American Legion Building to its former self. “Not only are these great people here to help us set up, they are the last people standing,” Thomas laughed. “They know the true meaning of service, and we are especially blessed and grateful for them.”</p>
+	<p>When the music finally ended (don’t ask the time!) a core of very special people – Jacksonvill’es ‘own’ SgtMaj Joe Houle USMC (Ret), Col John Kopka USMC (Ret) and GySgt Stan Walker USMC (Ret) – and all their volunteer marines – stayed on for the tiring work of returning the American Legion Building to its former self. “Not only are these great people here to help us set up, they are the last people standing,” Thomas laughed. “They know the true meaning of service, and we are especially blessed and grateful for them.”</p><p></p>
+	<p style="margin-bottom:20px;"></p>
 
-
-<p>
-<p>written by Jennifer Mackenzie, MFA</p></p>
-
-<p>extra ‘bubble’ quote: </p>
-
-
-
-<p>This years ’80s theme was rad! Great music, great food and a great time for all. Lee Ann Thomas, the Foundation Board, and all of the volunteers do a fantastic job making it happen year after year. </p>
-
- 
-
-<p></p>
-<p>–Andria Davis</p>
-
-<p>Director, Materials Management</p>
 
 <hr /><br>
 
 <!-- SPONSERSHIP INFO -->
 <p>&nbsp;</p>
-         <h2 align="center">Thank you Awesome 80s 2019 Sponsors!
+         <h2 align="center">Thank you Awesome '80s 2019 Sponsors!
 
 </h2>
            <p align="center">The Onslow Memorial Hospital Foundation would like to thank the following sponsors for their support:
@@ -120,7 +105,7 @@ $(function() {
 			 <tr>
 				 <td></td>
 				 <td><a href="https://www.goldencorral.com/"  target="_blank">
-					 <img src="images/sponsors/goldencorral.jpg" height="66" border="0" align="right" />
+					 <img src="images/sponsors/GoldenCorral.jpg" height="66" border="0" align="right" />
 				 </a></td>
 				 </table>
 

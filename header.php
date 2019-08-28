@@ -43,7 +43,7 @@
   <li><a class="MenuBarItemSubmenu give" href="#">Donate Now</a>
     <ul>
 			<li><a href="donate.php">Online Giving</a></li>
-      <li><a href="mamos-and-fun-run.php">Mammos 5K & Fun Run</a></li>
+      <li><a href="mamos-and-fun-run.php">Miles for Mammos 5k</a></li>
       <li><a href="pink-warrior-project.php">Julie's Pink Warrior Project</a></li>
         <li><a href="donuts-with-santa.php">Donuts with Santa</a></li>
         <li><a href="planned-giving.php">Planned Giving</a></li>

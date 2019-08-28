@@ -78,8 +78,7 @@ $(function() {
              <p>For more information on Julie’s Pink Warrior Project contact Lee Ann Thomas at (910)577-2651 or <a href="mailto:leeann.thomas@onslow.org" target="_blank">leeann.thomas@onslow.org.</a></p>
 
 
-         <h2>Annual Themed Fundraising Gala</h2>
-         <p>Each year in February the OMH Foundation hosts a fundraiser in support of a campaign project for Onslow Memorial Hospital.  For over 10 years the great people and businesses of Jacksonville and Onslow County have come together at this gala event to support the Foundation’s goal of providing the best healthcare facility for the entire community.  We are grateful for the community involvement.</p>
+    
          </div>
          <div id="homepageBottomContentRight">
 <!--

@@ -62,7 +62,7 @@ $site_lnk_url   = '';           // URL - Using '' will disable the Site Link.
 * If this is set, the text will appear at the bottom of your gallery.
 * See http://www.whatiscopyright.org/ for information about copyrights.
 */
-$copyright['txt'] = 'Images copyright &copy; 2019. All rights reserved.';
+$copyright['txt'] = '';
 
 /**
 * Admin Script
