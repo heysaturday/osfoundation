@@ -41,7 +41,7 @@ $(function() {
 
 			<ul id="slides">
     <!-- <li><a href="upcoming-events.php"><img src="photos/home-image-0abc.jpg" width="700" height="343" /></a></li> -->
-	<li><a href="past-events-BlackTieGala.php"><img src="images/gala-hp-banner.jpg" width="700" height="343" /></a></li>
+	<li><a href="past-events-BlackTieGala.php"><img src="images/gala-hp-banner-1.jpg" width="700" height="343" /></a></li>
 	<li><a href="volunteer.php"><img src="photos/home-image-2.jpg" width="700" height="343" /></a></li>
 </ul>
 
