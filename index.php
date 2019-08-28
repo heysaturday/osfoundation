@@ -66,15 +66,15 @@ $(function() {
          <h2>Donuts with Santa</h2>
          <p>Donuts with Santa is a great way to get into the holiday spirit.  The OMH Foundation hosts a fun-filled celebration for the children and families at our hospital and in our community.  What could be better than spending some quality time with Santa, Mrs. Claus and some of the Christmas elves.</p>
 
-             <p><b>The event ticket includes the following:</b></p>
+             <p><b>The event ticket includes the following:</b><br />
 
-             <p>Donuts and beverage<br />
-             <p>Photos with Santa<br />
-             <p>Storytime with Mrs. Claus<br />
-             <p>Craft time<br />
-             <p>Letters to Santa</p><br>
+             Donuts and beverage<br />
+             Photos with Santa<br />
+             Storytime with Mrs. Claus<br />
+             Craft time<br />
+             Letters to Santa</p><br>
          <h2>Caring Spirit Program - Give a gift in honor of an employee</h2>
-             <p>The doctors, nurses, employees, and volunteers of Onslow Memorial Hospital play a critical role in patients' healing—both physically and emotionally. The Caring Spirit program gives you the opportunity to express your gratitude for an employee by making a gift in his or her honor. When making a gift, you can write a personal note of appreciation that will be delivered to the employee along with a special Caring Spirit lapel pin. Making a gift through the Caring Spirit program is a heartfelt, meaningful way to say thank you to an employee who has made a difference in your life. If you are interested in making a Caring Spirit gift, contact Lee Ann Thomas at (910) 577-2651, email at <a href="mailto:leeann.thomas@onslow.org" target="_blank">Leeann.Thomas@onslow.org</a>, or <a href="pdfs/CaringSpiritDonationForm.pdf" target="_blank">click here</a>.</p>
+             <p style="margin-bottom:50px;">The doctors, nurses, employees, and volunteers of Onslow Memorial Hospital play a critical role in patients' healing—both physically and emotionally. The Caring Spirit program gives you the opportunity to express your gratitude for an employee by making a gift in his or her honor. When making a gift, you can write a personal note of appreciation that will be delivered to the employee along with a special Caring Spirit lapel pin. Making a gift through the Caring Spirit program is a heartfelt, meaningful way to say thank you to an employee who has made a difference in your life. If you are interested in making a Caring Spirit gift, contact Lee Ann Thomas at (910) 577-2651, email at <a href="mailto:leeann.thomas@onslow.org" target="_blank">Leeann.Thomas@onslow.org</a>, or <a href="pdfs/CaringSpiritDonationForm.pdf" target="_blank">click here</a>.</p>
 
              
 
