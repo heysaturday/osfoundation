@@ -62,20 +62,21 @@ $(function() {
          <p>Each year in February the OMH Foundation hosts a fundraiser in support of a campaign project for Onslow Memorial Hospital.  For over 10 years the great people and businesses of Jacksonville and Onslow County have come together at this gala event to support the Foundation’s goal of providing the best healthcare facility for the entire community.  We are grateful for the community involvement.</p>
          <h2>Julie’s Pink Warrior Project</h2>
          <p>The Onslow Memorial Hospital Foundation teams up with the OMH Radiology Department each year to host Pink Ribbon Week at OMH.  The purpose of this fundraiser is to raise awareness about Breast Cancer and to raise funds to support Julie’s Pink Warrior Project.  This project is in honor or Julie Zerkle, a breast cancer warrior who lost her battle with cancer at the age of 38.  Julie was passionate about supporting those individuals with breast cancer!  The proceeds of this project will help provide screening 3D mammograms for the underinsured and the uninsured.</p>
+         <p>For more information on Julie’s Pink Warrior Project contact Lee Ann Thomas at (910)577-2651 or <a href="mailto:leeann.thomas@onslow.org" target="_blank">leeann.thomas@onslow.org.</a></p>
          <h2>Donuts with Santa</h2>
          <p>Donuts with Santa is a great way to get into the holiday spirit.  The OMH Foundation hosts a fun-filled celebration for the children and families at our hospital and in our community.  What could be better than spending some quality time with Santa, Mrs. Claus and some of the Christmas elves.</p>
 
              <p><b>The event ticket includes the following:</b></p>
 
-             <p>Donuts and beverage</p>
-             <p>Photos with Santa</p>
-             <p>Storytime with Mrs. Claus</p>
-             <p>Craft time</p>
+             <p>Donuts and beverage<br />
+             <p>Photos with Santa<br />
+             <p>Storytime with Mrs. Claus<br />
+             <p>Craft time<br />
              <p>Letters to Santa</p><br>
-         <h2>Caring Spirit Program -Give a gift in honor of an employee</h2>
+         <h2>Caring Spirit Program - Give a gift in honor of an employee</h2>
              <p>The doctors, nurses, employees, and volunteers of Onslow Memorial Hospital play a critical role in patients' healing—both physically and emotionally. The Caring Spirit program gives you the opportunity to express your gratitude for an employee by making a gift in his or her honor. When making a gift, you can write a personal note of appreciation that will be delivered to the employee along with a special Caring Spirit lapel pin. Making a gift through the Caring Spirit program is a heartfelt, meaningful way to say thank you to an employee who has made a difference in your life. If you are interested in making a Caring Spirit gift, contact Lee Ann Thomas at (910) 577-2651, email at <a href="mailto:leeann.thomas@onslow.org" target="_blank">Leeann.Thomas@onslow.org</a>, or <a href="pdfs/CaringSpiritDonationForm.pdf" target="_blank">click here</a>.</p>
 
-             <p>For more information on Julie’s Pink Warrior Project contact Lee Ann Thomas at (910)577-2651 or <a href="mailto:leeann.thomas@onslow.org" target="_blank">leeann.thomas@onslow.org.</a></p>
+             
 
 
     
